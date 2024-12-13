@@ -65,6 +65,11 @@ button {
     text-align: center;
 }
 
+button.download {
+    width: 400px;
+    height: 30px;
+}
+
 button:hover {
     background-color: antiquewhite;
 }
